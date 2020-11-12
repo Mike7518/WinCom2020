@@ -1,9 +1,10 @@
 # WinCom2020
 <p align="center">
   <a href="https://github.com/Mike7518/WinCom2020.git">
-    <img src="images/results.png" alt="Logo" width="800" height="600">
+    <img src="images/results.png" alt="Wincom 2020 results">
   </a>
 </p>
+
 ## Getting Started
 ### Required modules
 This project relies on Python 3 and Flask for the REST API, and pymongo for database access (both server and DB tool).
