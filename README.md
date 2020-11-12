@@ -35,5 +35,5 @@ cluster_url = "MONGO_ATLAS_URL"
 
 ## Contact
 
-Mikail BASER - [LinkedIn Profile](https://www.linkedin.com/in/mikail-baser/)
-Jordy AQUITEME - [LinkedIn Profile](https://www.linkedin.com/in/jordy-aquiteme-204769117/)
+* Mikail BASER - [LinkedIn Profile](https://www.linkedin.com/in/mikail-baser/)
+* Jordy AQUITEME - [LinkedIn Profile](https://www.linkedin.com/in/jordy-aquiteme-204769117/)
