@@ -1,10 +1,4 @@
 # WinCom2020
-<p align="center">
-  <a href="https://github.com/Mike7518/WinCom2020.git">
-    <img src="images/results.png" alt="Wincom 2020 results">
-  </a>
-</p>
-
 ## Getting Started
 ### Required modules
 This project relies on Python 3 and Flask for the REST API, and pymongo for database access (both server and DB tool).
@@ -32,5 +26,14 @@ password = "PASSWORD"
 cluster_url = "MONGO_ATLAS_URL"
 ```
 
-<br>
-Mikail BASER & Jordy AQUITEME
+## Competition results
+<p align="center">
+  <a href="https://github.com/Mike7518/WinCom2020.git">
+    <img src="images/results.png" alt="Wincom 2020 results">
+  </a>
+</p>
+
+## Contact
+
+Mikail BASER - [LinkedIn Profile](https://www.linkedin.com/in/mikail-baser/)
+Jordy AQUITEME - [LinkedIn Profile](https://www.linkedin.com/in/jordy-aquiteme-204769117/)
